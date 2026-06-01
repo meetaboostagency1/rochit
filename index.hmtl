@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Join Haji Sultan Khan's free Telegram channel for trading signals.">
+  <title>Join Free Telegram Channel - Haji Sultan Khan Official</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="container">
+    <a href="https://t.me/your_channel" target="_blank" rel="noopener noreferrer" class="btn" aria-label="Join our free Telegram channel">
+      JOIN NOW FOR FREE TELEGRAM CHANNEL 🚀
+    </a>
+    
+    <img src="path/to/profile.jpg" alt="Haji Sultan Khan Official Profile" class="profile" loading="lazy">
+    
+    <h1>HAJI SULTAN KHAN OFFICIAL</h1>
+    
+    <ul class="points">
+      <li><span class="check">✔</span> Nifty, BankNifty & Options calls with high accuracy</li>
+      <li><span class="check">✔</span> 1:4 Risk Reward Ratio • Daily 2–3 calls</li>
+      <li><span class="check">✔</span> Learn & Trade Smartly • Growing Community</li>
+    </ul>
+    
+    <p class="join">Join Today For FREE! 🚀</p>
+    
+    <a href="https://t.me/your_channel" target="_blank" rel="noopener noreferrer" class="btn" aria-label="Join our free Telegram channel">
+      JOIN NOW FOR FREE TELEGRAM CHANNEL 🚀
+    </a>
+    
+    <footer>
+      <p class="disclaimer">Disclaimer: Educational content only. Not SEBI registered. Trading involves risk.</p>
+      <div class="badge">🔥 Ads by ADCRAFTAGENCY • Boost Reach 🚀</div>
+    </footer>
+  </main>
+</body>
+</html>
